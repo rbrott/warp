@@ -1,0 +1,5 @@
+===Celestial Masses===
+asteroid=
+planet=10^25 +/- 5x10^24
+star=
+black hole=
